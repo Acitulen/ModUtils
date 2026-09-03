@@ -1,5 +1,5 @@
 # ModUtils
-Core library for mods by Acitulen.
+Core library for mods by Acitulen.  
   
 **⚠️WARNING⚠️ This version of ModUtils is designed to function with VotV 0.9.0n. Using older or newer versions of the game may cause errors!**  
 
@@ -9,9 +9,9 @@ If you have any suggestions or encounter a bug, you can submit it as an issue on
 
 # Features: 
 
-- 
-- 
-- 
+- **Config system:** adds the **Mod configs** category to the game settings (also opened with **Ctrl+Shift+C** in game).
+- **Save system:** saves mod variables without creating extra save files.
+- **DataTable merging:** merges mod DataTables into the game. Compatible with **Fusion**.
 
 ---
 
